@@ -3,3 +3,8 @@ cria um arquivo tsconfig.json
 yarn add --dev typescript @types/react @types/node
 yarn dev(popula o arquivo tsconfig)
 trocar a extensões dos aquivos para .tsx
+
+git init
+git add .
+git commit -m "First project"
+git branch -M master
