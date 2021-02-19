@@ -1,0 +1,5 @@
+yarn create next-app --example with-tailwindcss online-classroom
+cria um arquivo tsconfig.json
+yarn add --dev typescript @types/react @types/node
+yarn dev(popula o arquivo tsconfig)
+trocar a extensões dos aquivos para .tsx
