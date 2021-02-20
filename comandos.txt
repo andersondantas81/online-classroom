@@ -8,3 +8,10 @@ git init
 git add .
 git commit -m "First project"
 git branch -M master
+git remote add origin git@github.com:andersondantas81/online-classroom.git
+git push -u origin master
+git log
+mongodb+srv://teach-other:Aa0VGrpgwFxmKwrK@cluster0.oat8a.mongodb.net/test
+
+yarn add mongodb
+yarn add -D @types/mongodb
