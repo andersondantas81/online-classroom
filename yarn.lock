@@ -174,7 +174,7 @@
     "@types/bson" "*"
     "@types/node" "*"
 
-"@types/next-auth@^3.1.5":
+"@types/next-auth@^3.1.24":
   version "3.1.24"
   resolved "https://registry.yarnpkg.com/@types/next-auth/-/next-auth-3.1.24.tgz#81193f48ec9f2dabc9b389bea5e7edef88d1d78c"
   integrity sha512-uJ04mdWwKP3G101hHK6jsPB19bw4saGzixyhXoW6D3lHZ3yCT7sPqwEiMQsBLbTHx70jFlqZpWCDxD87Lk8mXA==
@@ -2245,7 +2245,7 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
 
-next-auth@^3.1.0:
+next-auth@^3.4.2:
   version "3.4.2"
   resolved "https://registry.yarnpkg.com/next-auth/-/next-auth-3.4.2.tgz#8ded0667fbd2b23f991a8756bb88753e53eee946"
   integrity sha512-Ila6CAgTFzAKq1x/qKlV9SVImYg41+/Gg+d/9ophhuNylZSKcQK0/jVpxvSjaVAH3j5oI0jQKq/vLTGiC8JApw==

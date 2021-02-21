@@ -15,3 +15,6 @@ mongodb+srv://teach-other:Aa0VGrpgwFxmKwrK@cluster0.oat8a.mongodb.net/test
 
 yarn add mongodb
 yarn add -D @types/mongodb
+
+yarn add next-auth
+yarn add -D @types/next-auth
